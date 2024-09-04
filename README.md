@@ -1,0 +1,2 @@
+# Waybar
+My Waybar dotfiles
